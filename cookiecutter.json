@@ -9,21 +9,9 @@
     "3.7",
     "3.8"
   ],
-  "virtualenv": [
-    "virtualenv",
-    "python3"
-  ],
   "linter": [
-    "flake8",
-    "pylint"
-  ],
-  "sphinx_theme": [
-    "alabaster",
-    "readthedocs"
-  ],
-  "auto_readme": [
-    "None",
-    "pandoc"
+    "pylint",
+    "flake8"
   ],
   "author_name": "my_name",
   "author_email": "my_email@gmail.com",

@@ -32,7 +32,7 @@ pip install "cookiecutter>=1.4.0"`
 Now run it against this repo:
 
 ``` bash
-cookiecutter https://github.com/patdaburu/cookiecutter-click
+cookiecutter https://github.com/sjev/cookiecutter-click
 ```
 
 You'll be prompted for some values. Provide them, then a cli tool will be
@@ -154,7 +154,7 @@ Would you like to learn more?  Check out the links below!
 
 ## Author
 
-This program was created by [Pat Daburu](https://github.com/patdaburu). 
+This program was created by [Pat Daburu](https://github.com/patdaburu).
 
 This project is [hosted on GitHub](https://github.com/patdaburu/cookiecutter-click). Please feel free to submit pull requests.
 

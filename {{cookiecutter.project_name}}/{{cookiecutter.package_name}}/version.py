@@ -4,8 +4,7 @@
 """
 This module contains project version information.
 
-.. currentmodule:: {{cookiecutter.package_name}}.version
-.. moduleauthor:: {{cookiecutter.author_name}} <{{cookiecutter.author_email}}>
+author:: {{cookiecutter.author_name}} <{{cookiecutter.author_email}}>
 """
 
 __version__ = "{{cookiecutter.project_version}}"  #: the working version

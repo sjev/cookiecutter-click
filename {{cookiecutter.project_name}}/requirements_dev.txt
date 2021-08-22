@@ -7,13 +7,12 @@ pylint
 flake8
 flake8-docstrings
 {%- endif %}
+black
 pytest
 pytest-cov
 pytest-pythonpath
 setuptools
-Sphinx
-{%- if cookiecutter.sphinx_theme == 'readthedocs' %}
-sphinx-rtd-theme
-{%- endif %}
+mkdocs-material
+mkdocstrings
 tox
 twine

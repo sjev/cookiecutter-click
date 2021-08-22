@@ -68,3 +68,7 @@ Copyright (c) {{cookiecutter.author_name}}
 
 All rights reserved.
 {%- endif -%}
+
+
+Powered by [Cookiecutter](https://cookiecutter.readthedocs.io/en/latest/)
+and [cookiecutter-click template](https://github.com/sjev/cookiecutter-click)
