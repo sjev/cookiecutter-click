@@ -13,8 +13,7 @@ including:
 
 * A [Click](http://click.pocoo.org/5/) application to get you going
 * [Pytest](https://docs.pytest.org/en/latest/) unit tests
-* A documentation project based on
-  [Sphinx](http://www.sphinx-doc.org/en/master/usage/quickstart.html).
+* A documentation project based on [mkdocs](https://www.mkdocs.org/)
 
 ## Usage
 
@@ -150,20 +149,15 @@ Would you like to learn more?  Check out the links below!
   Easy](https://www.pydanny.com/cookie-project-templates-made-easy.html)
 * [Click](http://click.pocoo.org/5/)
 * [Pytest](https://docs.pytest.org/en/latest/)
-* [Sphinx](http://www.sphinx-doc.org/en/master/usage/quickstart.html)
+
 
 ## Author
 
 This program was created by [Pat Daburu](https://github.com/patdaburu).
+Forked and updated by Jev Kuznetsov
 
-This project is [hosted on GitHub](https://github.com/patdaburu/cookiecutter-click). Please feel free to submit pull requests.
 
-## Contributors
-
-| name        | github link                   |
-|-------------|-------------------------------|
-| Vlad Doster | https://github.com/vladdoster |
 
 ## License
 
-Copyright © 2018–2020 Pat Daburu. This program is released under the GPLv3 license, which you can find in the file [LICENSE](LICENSE).
+Copyright © 2018–2020 Pat Daburu, Jev Kuznetsov. This program is released under the GPLv3 license, which you can find in the file [LICENSE](LICENSE).
